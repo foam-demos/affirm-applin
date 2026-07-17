@@ -1,0 +1,1 @@
+// Foam instrumentation entrypoint placeholder
